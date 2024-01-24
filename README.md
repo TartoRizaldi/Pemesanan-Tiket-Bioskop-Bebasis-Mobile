@@ -11,5 +11,5 @@ ini adalah project class build with angga bersama robby dianputra, kelas ini mem
 1. Firebase
 
 ## Source
-Robby Dianputra
+Tarto Rizaldi
 # Pemesanan-Tiket-bioskop-berbasis-Mobile-dengan-mengunakan-Kotline
